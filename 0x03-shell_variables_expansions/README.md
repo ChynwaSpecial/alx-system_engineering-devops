@@ -1,1 +1,1 @@
-Shell initialization project
+Shell variable expansion
